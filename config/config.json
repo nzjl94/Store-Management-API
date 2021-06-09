@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "local_admin",
+    "password": "61#2d2A2j51^_4",
+    "database": "store_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "local_admin",
+    "password": "61#2d2A2j51^_4",
+    "database": "store_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "local_admin",
+    "password": "61#2d2A2j51^_4",
+    "database": "store_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
